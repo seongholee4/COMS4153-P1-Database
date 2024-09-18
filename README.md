@@ -1,7 +1,10 @@
 # COMS4153-P1-Database
 
+The link to the repository is: https://github.com/seongholee4/COMS4153-P1-Database
+
 COMSW4153 - Cloud Computing Database Repository
 
+---
 
 - Download MySQL Server 8.0.39
 - Download DataGrip
